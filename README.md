@@ -1,36 +1,31 @@
-# ✦ Sayan Polley
+<!-- ===================== HEADER ===================== -->
 
-### `Frontend Developer • Builder • Hackathon Enthusiast`
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sayan+Polley+%F0%9F%91%8B;I+love+building+things+for+the+web+%F0%9F%92%BB;Frontend+%7C+Development+%7C+Hackathons;Turning+ideas+into+real+projects+%E2%9C%A8" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:0F172A&height=220&section=header&text=Sayan%20Polley&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Student%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" />
 
-<p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/Frontend-Developer-58A6FF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Hackathon-Builder-8B5CF6?style=for-the-badge">
-</p>
+</div>
+
+<!-- ===================== TYPING ===================== -->
+
+<div align="center">
+
+<a href="https://github.com/">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=700&lines=AI%2FML+Student+%7C+Software+Developer;Data+Structures+%26+Algorithms;Frontend+Development;Building+Ideas+Into+Real+Products;Hackathon+Builder+%7C+Continuous+Learner" />
+
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6366F1&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-Hey! I'm **Sayan Polley**, a developer who enjoys turning ideas into interactive and meaningful digital experiences.
+Hi, I'm **Sayan Polley**, an **AI/ML student and developer** passionate about building technology and solving challenging problems.
 
-I'm especially interested in **Frontend Development**, where creativity meets technology.
-
-```javascript
-const sayan = {
-    name: "Sayan Polley",
-    role: "Frontend Developer",
-    interests: [
-        "Web Development",
-        "UI/UX",
-        "Creative Projects",
-        "Hackathons"
-    ],
-    mindset: "Learn → Build → Break → Improve 🚀"
-};
+My interests span across **Artificial Intelligence & Machine Learning, Data Structures**
