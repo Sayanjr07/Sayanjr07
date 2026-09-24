@@ -1,279 +1,190 @@
-<div align="center">
+# 🎮 Sayan Polley
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:6366F1,70:A855F7,100:EC4899&height=230&section=header&text=SAYAN%20POLLEY&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20STUDENT%20%E2%80%A2%20DEVELOPER%20%E2%80%A2%20HACKATHON%20BUILDER&descAlignY=58&descSize=17&animation=fadeIn" />
+### `AI Student • Developer • Problem Solver`
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sayan+%F0%9F%91%8B;AI%2FML+Student+%7C+Developer;DSA+%7C+Frontend+%7C+Programming;Building+Ideas+Into+Real+Products+%F0%9F%9A%80;Learning.+Building.+Improving." />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Frontend-EC4899?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hackathons-10B981?style=for-the-badge&logo=rocket&logoColor=white"/>
-
-</div>
+> 🎯 Learning. Building. Experimenting. Leveling Up.
 
 ---
 
-# 🌈 About Me
+## 🧑‍💻 About Me
 
-Hey! I'm **Sayan Polley**, an **AI/ML student and developer** who loves turning ideas into things that actually work.
+Hey! I'm **Sayan Polley**, an **AI student** passionate about technology, programming, and building things that solve real-world problems.
 
-I'm interested in the intersection of:
+I'm currently in my **learning phase**, exploring different areas of Computer Science and continuously improving my development and problem-solving skills.
 
-🧠 **Artificial Intelligence**
-💻 **Software Development**
-🧩 **Data Structures & Algorithms**
-🌐 **Frontend Development**
-🚀 **Hackathons & Innovation**
-
-I enjoy learning new technologies, solving programming problems, and building projects that combine **technology + creativity + real-world problem solving**.
-
-> 💡 **Learn the fundamentals. Build something. Break it. Improve it.**
+```text
+╔══════════════════════════════════════════════════╗
+║                  PLAYER PROFILE                  ║
+╠══════════════════════════════════════════════════╣
+║  👤 Name       : Sayan Polley                    ║
+║  🎓 Role       : AI Student                      ║
+║  🧠 Focus      : AI • Programming • DSA          ║
+║  ⚡ Status     : Currently Learning               ║
+║  🎮 Mode       : Build → Break → Learn           ║
+║  🚀 Goal       : Become a Better Developer       ║
+╚══════════════════════════════════════════════════╝
+```
 
 ---
 
-# 🚀 What I Do
+## 🎮 CURRENT QUEST
 
-<table>
-<tr>
+```text
+Learning        ████████████████░░░░  80%
+Programming     ██████████████░░░░░░  70%
+DSA             ████████████░░░░░░░░  60%
+AI / ML         ██████████░░░░░░░░░░  50%
+Projects        ████████░░░░░░░░░░░░  40%
+```
 
-<td align="center" width="25%">
+### 🧩 Currently Exploring
 
-### 🤖
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 💻 Programming
+* 📊 Data Structures & Algorithms
+* 🌐 Web Development
+* 🛠️ Project Building
+* 🔍 Problem Solving
 
-## AI / ML
+---
 
-Machine Learning
-AI Applications
+## 🛠️ TECH ARSENAL
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,c" />
+</p>
+
+### ⚙️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+### 🤖 AI / ML Journey
+
+```text
 Python
+   ↓
 Data
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-## DSA
-
-Algorithms
-Problem Solving
-Logic Building
-Programming
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐
-
-## Frontend
-
-HTML
-CSS
-JavaScript
-UI / UX
-
-</td>
-
-<td align="center" width="25%">
-
-### 🏆
-
-## Hackathons
-
-Ideas
-Innovation
-Prototyping
-Teamwork
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,java,js" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### ⚙️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-# 🏆 Hackathon Journey
-
-<div align="center">
-
-### `IDEA → DESIGN → BUILD → TEST → IMPROVE → SHIP 🚀`
-
-</div>
-
-This repository is part of my **Hackathon journey**, where I work on ideas that aim to solve real-world problems using technology.
-
-Hackathons give me the opportunity to combine my knowledge of **AI/ML, programming, DSA and frontend development** into working prototypes.
-
-### ⚡ My Workflow
-
-```text
-        💡 IDEA
-          │
-          ▼
-      🔍 RESEARCH
-          │
-          ▼
-      🎨 DESIGN
-          │
-          ▼
-      💻 BUILD
-          │
-          ▼
-       🧪 TEST
-          │
-          ▼
-      🔄 ITERATE
-          │
-          ▼
-       🚀 SHIP
+   ↓
+Machine Learning
+   ↓
+Artificial Intelligence
+   ↓
+Real-World Applications
 ```
 
 ---
 
-# 🧠 Currently Learning
+## 🎯 2026 GOALS
 
-<div align="center">
-
-|    🟣 AI / ML    | 🔵 Development | 🟢 Computer Science |
-| :--------------: | :------------: | :-----------------: |
-| Machine Learning |    Frontend    |         DSA         |
-|      Python      |   JavaScript   |      Algorithms     |
-|  AI Applications |    Web Apps    |   Problem Solving   |
-|       Data       |     UI / UX    |     Programming     |
-
-</div>
+* [ ] 🧠 Strengthen DSA fundamentals
+* [ ] 🤖 Learn Machine Learning deeply
+* [ ] 💻 Improve programming skills
+* [ ] 🚀 Build meaningful projects
+* [ ] 🌐 Explore development
+* [ ] 🏆 Participate in hackathons
+* [ ] 📚 Contribute to Open Source
+* [ ] ⚡ Become a better problem solver
 
 ---
 
-# 💡 Projects
+## 🕹️ DEVELOPER MINDSET
 
-### 🏆 Hackathon Projects
-
-> Building technology-driven solutions for real-world problems.
-
-### 🤖 AI / ML Projects
-
-> Exploring practical applications of Artificial Intelligence and Machine Learning.
-
-### 🌐 Web Applications
-
-> Creating interactive and responsive frontend experiences.
-
-### 🧩 DSA & Coding
-
-> Practicing algorithms and strengthening problem-solving skills.
-
----
-
-# 📊 My Developer Journey
-
-<div align="center">
+> **Every bug is another level.**
+> **Every project is another quest.**
+> **Every failure is XP.**
 
 ```text
-        🧠 LEARN
-           ↓
-        🔬 EXPLORE
-           ↓
-        💡 IDEATE
-           ↓
-        💻 BUILD
-           ↓
-        🐛 DEBUG
-           ↓
-        🔄 IMPROVE
-           ↓
-        🚀 SHIP
+              ┌───────────────┐
+              │     CODE      │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │     BUILD     │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │     BREAK     │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │     LEARN     │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │    LEVEL UP   │
+              └───────────────┘
 ```
 
-</div>
+---
+
+## 🚀 PROJECTS
+
+| 🎮 Project     | 🧩 Description | ⚡ Technology |
+| -------------- | -------------- | ------------ |
+| **Project 01** | Coming Soon... | `AI`         |
+| **Project 02** | Coming Soon... | `Python`     |
+| **Project 03** | Coming Soon... | `ML`         |
+
+> 🚧 More projects are currently loading...
+
+`████████████████░░░░ 80%`
 
 ---
 
-# 📈 GitHub
+## 📈 LEARNING JOURNEY
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&title_color=06B6D4&icon_color=A855F7&text_color=CBD5E1" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&title_color=EC4899&text_color=CBD5E1" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&ring=A855F7&fire=EC4899&currStreakLabel=06B6D4" />
-
-</div>
+```text
+AI / ML          ███████████░░░  Learning
+DSA              ██████████░░░░  Learning
+Programming      ████████████░░  Improving
+Development      ████████░░░░░░  Exploring
+Projects         ███████░░░░░░░  Building
+```
 
 ---
 
-# 🌟 Philosophy
+## 📊 GITHUB STATS
 
-<div align="center">
-
-### **BUILD → LEARN → IMPROVE → REPEAT**
-
-<br>
-
-*"Every project is another step forward."*
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-# 🤝 Let's Connect
+## 🐍 CONTRIBUTION QUEST
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
+---
+
+## 🌐 CONNECT WITH ME
+
+<p align="left">
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+---
 
-</div>
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║        "CODE. LEARN. BUILD. REPEAT."        ║
+║                                              ║
+║              — SAYAN POLLEY                 ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
 
-<br>
+### ⚡ `[ SYSTEM STATUS: ONLINE ]` 🟢
 
-<div align="center">
-
-### 💜 Thanks for visiting my profile!
-
-**Sayan Polley**
-
-`AI/ML Student • Developer • Problem Solver`
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,35:A855F7,70:6366F1,100:06B6D4&height=130&section=footer" />
-
-<!--
-Made with curiosity, code & coffee ☕
--->
+⭐ **Thanks for visiting my profile!**
