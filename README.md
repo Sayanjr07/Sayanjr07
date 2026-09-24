@@ -1,190 +1,48 @@
-# 🎮 Sayan Polley
+<!-- ╔══════════════════════════════════════════════════════════════════════╗
+     ║                    SAYAN POLLEY • GITHUB PROFILE                  ║
+     ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-### `AI Student • Developer • Problem Solver`
+<div align="center">
 
-> 🎯 Learning. Building. Experimenting. Leveling Up.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FFF,100:FF2D95&height=220&section=header&text=SAYAN%20POLLEY&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%2FML%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Hackathon%20Builder&descAlignY=62&descSize=16" width="100%"/>
 
----
+<br>
 
-## 🧑‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+ideas+into+real+products;Exploring+AI+%26+Machine+Learning;Data+Structures+%26+Algorithms;Frontend+Development;Learning+by+building;Hackathon+enthusiast" alt="Typing animation" />
 
-Hey! I'm **Sayan Polley**, an **AI student** passionate about technology, programming, and building things that solve real-world problems.
+<br><br>
 
-I'm currently in my **learning phase**, exploring different areas of Computer Science and continuously improving my development and problem-solving skills.
-
-```text
-╔══════════════════════════════════════════════════╗
-║                  PLAYER PROFILE                  ║
-╠══════════════════════════════════════════════════╣
-║  👤 Name       : Sayan Polley                    ║
-║  🎓 Role       : AI Student                      ║
-║  🧠 Focus      : AI • Programming • DSA          ║
-║  ⚡ Status     : Currently Learning               ║
-║  🎮 Mode       : Build → Break → Learn           ║
-║  🚀 Goal       : Become a Better Developer       ║
-╚══════════════════════════════════════════════════╝
-```
-
----
-
-## 🎮 CURRENT QUEST
-
-```text
-Learning        ████████████████░░░░  80%
-Programming     ██████████████░░░░░░  70%
-DSA             ████████████░░░░░░░░  60%
-AI / ML         ██████████░░░░░░░░░░  50%
-Projects        ████████░░░░░░░░░░░░  40%
-```
-
-### 🧩 Currently Exploring
-
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 💻 Programming
-* 📊 Data Structures & Algorithms
-* 🌐 Web Development
-* 🛠️ Project Building
-* 🔍 Problem Solving
-
----
-
-## 🛠️ TECH ARSENAL
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,c" />
-</p>
-
-### ⚙️ Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-### 🤖 AI / ML Journey
-
-```text
-Python
-   ↓
-Data
-   ↓
-Machine Learning
-   ↓
-Artificial Intelligence
-   ↓
-Real-World Applications
-```
-
----
-
-## 🎯 2026 GOALS
-
-* [ ] 🧠 Strengthen DSA fundamentals
-* [ ] 🤖 Learn Machine Learning deeply
-* [ ] 💻 Improve programming skills
-* [ ] 🚀 Build meaningful projects
-* [ ] 🌐 Explore development
-* [ ] 🏆 Participate in hackathons
-* [ ] 📚 Contribute to Open Source
-* [ ] ⚡ Become a better problem solver
-
----
-
-## 🕹️ DEVELOPER MINDSET
-
-> **Every bug is another level.**
-> **Every project is another quest.**
-> **Every failure is XP.**
-
-```text
-              ┌───────────────┐
-              │     CODE      │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │     BUILD     │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │     BREAK     │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │     LEARN     │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │    LEVEL UP   │
-              └───────────────┘
-```
-
----
-
-## 🚀 PROJECTS
-
-| 🎮 Project     | 🧩 Description | ⚡ Technology |
-| -------------- | -------------- | ------------ |
-| **Project 01** | Coming Soon... | `AI`         |
-| **Project 02** | Coming Soon... | `Python`     |
-| **Project 03** | Coming Soon... | `ML`         |
-
-> 🚧 More projects are currently loading...
-
-`████████████████░░░░ 80%`
-
----
-
-## 📈 LEARNING JOURNEY
-
-```text
-AI / ML          ███████████░░░  Learning
-DSA              ██████████░░░░  Learning
-Programming      ████████████░░  Improving
-Development      ████████░░░░░░  Exploring
-Projects         ███████░░░░░░░  Building
-```
-
----
-
-## 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 CONTRIBUTION QUEST
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🌐 CONNECT WITH ME
-
-<p align="left">
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
-</p>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7B2FFF&label=PROFILE+VIEWS" />
+
+<br><br>
+
+> **AI/ML student focused on building, solving, and learning through real projects.**
+
+</div>
 
 ---
 
+## 👋 About Me
+
+I'm **Sayan Polley**, an **AI/ML student** with a strong interest in software development, problem solving, and building interactive digital experiences.
+
+My development journey sits at the intersection of **Artificial Intelligence, Data Structures & Algorithms, Software Development, and Frontend Development**.
+
+I enjoy turning ideas into practical projects, experimenting with technologies, participating in hackathons, and learning by actually building things.
+
 ```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║        "CODE. LEARN. BUILD. REPEAT."        ║
-║                                              ║
-║              — SAYAN POLLEY                 ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-### ⚡ `[ SYSTEM STATUS: ONLINE ]` 🟢
-
-⭐ **Thanks for visiting my profile!**
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   AI / ML              →  Explore intelligent systems                │
+│   DSA                  →  Strengthen problem-solving                 │
+│   Software Development →  Build practical applications               │
+│   Frontend             →  Create interactive experiences              │
+│   Hackathons           →  Turn ideas into prototypes                  │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
