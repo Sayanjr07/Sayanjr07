@@ -1,100 +1,220 @@
-<div align="center">
-
-<!-- AESTHETIC BANNER GIF -->
-<img src="https://i.pinimg.com/originals/a2/12/16/a21216cb03c734b463283ca51a799d52.gif" alt="Aesthetic Banner" width="100%" style="border-radius: 15px;"/>
-
-<br/>
-
-# ✦ ✧ ⌈ Project Name Here ⌋ ✧ ✦
-
-<h3 align="center">
-  A seamless blend of Artificial Intelligence & Beautiful Interfaces. 
-</h3>
+# 👋 Hey, I'm Sayan Polley!
 
 <p align="center">
-  <b>Built for [Insert Hackathon Name] 2026 🚀</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C2FF,100:00E5A8&height=220&section=header&text=Sayan%20Polley&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20%7C%20Create%20%7C%20Innovate&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
-<!-- DYNAMIC TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7768E&center=true&vCenter=true&width=435&lines=Bridging+AI%2FML+with+Frontend;Crafting+Aesthetic+User+Experiences;Built+for+the+Hackathon+Win!++%E2%9C%A8" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-VS%20Code-7A7EE3?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
-[![Hackathon Submission](https://img.shields.io/badge/Hackathon-Submission-FF9E64?style=for-the-badge&logo=devpost&logoColor=white)](#)
-[![Maintained](https://img.shields.io/badge/Maintained-Yes-9ECE6A?style=for-the-badge)](#)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/CSE%20%7C%20AI%2FML-Student-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Frontend-Explorer-00C2FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hackathon-Builder-00E5A8?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🔮 The Vision
-*Write a short, compelling 2-3 sentence pitch about what your hackathon project does. Why does it matter? What problem does it solve? Keep it punchy!* 
+## 🧑‍💻 About Me
 
-> "We are taking complex AI algorithms and making them accessible through a breathtaking frontend experience."
+Hey! I'm **Sayan Polley**, a **Computer Science Engineering student specializing in AI/ML**, with a strong interest in **Frontend Development** and building things that people actually enjoy using.
 
----
+I'm fascinated by the intersection of **design, technology, and artificial intelligence**.
 
-## 🎨 Tech Stack & Colors
+I enjoy taking an idea from:
 
-This project was built using a carefully curated stack to ensure both computational power and a gorgeous user interface.
+**💭 Concept → 🎨 Design → 💻 Code → 🚀 Product**
 
-<div align="center">
-  
-### ✧ Frontend Magic ✧
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
-
-### ✧ AI / ML Core ✧
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
+I'm currently at the beginning of my development journey, exploring different technologies, building small projects, participating in **hackathons**, and learning something new with every project.
 
 ---
 
-## 🚀 Features That Stand Out
+## 🏆 Hackathon Mode: ON
 
-- ✨ **Feature One:** *Description of your coolest frontend element or AI integration.*
-- 🎨 **Feature Two:** *Description of your aesthetic UI/UX.*
-- 🧠 **Feature Three:** *Description of the machine learning model working behind the scenes.*
-- ⚡ **Feature Four:** *How fast/efficient your project is.*
+> ⚡ **Build fast. Think differently. Create something meaningful.**
 
----
+Hackathons are a place where I get to experiment with ideas, learn new technologies, collaborate with others, and challenge myself to build something within a limited time.
 
-## 📸 Sneak Peek (Gallery)
+This repository/project is part of my **Hackathon journey**.
 
-<div align="center">
-  
-| 🌌 Dashboard Interface | 🤖 AI Analysis View |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/400x250/1a1b26/bb9af7?text=UI+Screenshot+1" width="400" alt="UI 1"/> | <img src="https://via.placeholder.com/400x250/1a1b26/7aa2f7?text=UI+Screenshot+2" width="400" alt="UI 2"/> |
+### 🚀 What I bring to a hackathon
 
-*(Replace the placeholder links above with actual screenshots of your project!)*
-
-</div>
+* 🎨 **Frontend & UI/UX** — Exploring ways to create clean and engaging interfaces
+* 🤖 **AI/ML** — Learning how intelligent technologies can solve real-world problems
+* 💡 **Problem Solving** — Breaking problems into smaller, manageable pieces
+* ⚡ **Rapid Learning** — Picking up new technologies when a project demands it
+* 🧠 **Curiosity** — Always willing to experiment and try something new
 
 ---
 
-## 💻 Run it Locally
+## 🎨 My Main Interest
 
-Get this project running on your machine in seconds:
+### Frontend Development
 
-```bash
-# 1. Clone the repository
-git clone [https://github.com/YourUsername/YourProjectName.git](https://github.com/YourUsername/YourProjectName.git)
+I enjoy the creative side of programming — taking a blank screen and turning it into something interactive and useful.
 
-# 2. Navigate to the project directory
-cd YourProjectName
+I'm currently exploring:
 
-# 3. Install the Frontend dependencies
-npm install
+```text
+🎨 UI Design
+   ↓
+🌐 HTML & CSS
+   ↓
+⚡ JavaScript
+   ↓
+📱 Responsive Design
+   ↓
+✨ Interactive Interfaces
+   ↓
+🚀 Building Real Projects
+```
 
-# 4. Start the aesthetic magic ✨
-npm run dev
+As a **CSE AI/ML student**, I'm also interested in exploring how AI can be combined with frontend development to create smarter and more useful applications.
+
+My long-term goal is to explore the intersection of:
+
+**🎨 Frontend + 🤖 AI/ML + 💡 Creative Problem Solving**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+I'm at the **beginning of my development journey**, exploring different areas of technology and figuring out what I enjoy building the most.
+
+Right now, I'm learning:
+
+```text
+🌐 HTML & CSS
+   ↓
+⚡ JavaScript
+   ↓
+⚛️ Exploring React
+   ↓
+🐍 Python & AI/ML Fundamentals
+   ↓
+🎨 UI/UX & Frontend Design
+   ↓
+🚀 Building Small Projects
+```
+
+I'm still learning, experimenting, making mistakes, and improving every day.
+
+> **Learning → Building → Breaking → Fixing → Growing 🌱**
+
+There's a lot more to learn, and that's what makes the journey exciting. 🚀
+
+---
+
+## 🚀 Projects & Experiments
+
+I believe the best way to learn development is to **build things**.
+
+Here you'll find:
+
+🎨 Frontend experiments
+🤖 AI/ML projects
+🏆 Hackathon projects
+💡 Random ideas turned into prototypes
+📚 College projects
+🧪 Things I'm currently experimenting with
+
+> Some projects might be polished.
+> Some might be experiments.
+> **Every project is part of the journey.**
+
+---
+
+## 📊 My GitHub Journey
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
+</p>
+
+---
+
+## 💭 My Developer Philosophy
+
+> **"Don't just learn technology. Build something with it."**
+
+I don't want to simply collect programming languages or frameworks.
+
+I want to understand **why something should be built, who it helps, and how technology can make it better.**
+
+For me, every bug is a lesson, every project is an experiment, and every new technology is another opportunity to learn.
+
+---
+
+## 🎯 The Road Ahead
+
+```text
+        LEARN
+          ↓
+       EXPLORE
+          ↓
+        BUILD
+          ↓
+       BREAK
+          ↓
+       DEBUG
+          ↓
+       IMPROVE
+          ↓
+        REPEAT 🔁
+```
+
+My goal is to keep growing as a developer while exploring the intersection of:
+
+**🎨 Frontend × 🤖 AI/ML × 💡 Innovation**
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in meeting people who love:
+
+💻 Building cool stuff
+🤖 AI & technology
+🎨 Creative frontend development
+🏆 Hackathons
+💡 Crazy project ideas
+🚀 Learning something new
+
+If you're building something interesting, let's connect and create something awesome.
+
+<p align="center">
+  <b>✨ Thanks for stopping by! ✨</b>
+</p>
+
+<p align="center">
+  <i>Made with curiosity, caffeine & a lot of debugging ☕💻</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C2FF,100:00E5A8&height=120&section=footer"/>
+</p>
